@@ -3,6 +3,7 @@
 #running steps
 1- first you must run the scripts under resources folder
 2- main class: com.example.task.app.TaskApplication
+3- prfile: --spring.profiles.active=local
 
 ## Main frameworks
 - Spring boot
